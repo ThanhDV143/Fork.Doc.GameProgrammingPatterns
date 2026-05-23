@@ -340,7 +340,7 @@ if (Test-Path -LiteralPath $mirrorRoot) {
     Write-Host ("  Images:     {0}" -f $imgCount)  -ForegroundColor Cyan
     Write-Host ("  Total size: {0}" -f $sizeMb)    -ForegroundColor Cyan
 } else {
-    Write-Host '  No mirror folder.' -ForegroundColor Yellow
+    Write-Host '  No mirror folder found.' -ForegroundColor Yellow
     return
 }
 
