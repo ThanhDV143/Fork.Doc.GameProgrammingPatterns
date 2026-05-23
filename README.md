@@ -1,6 +1,6 @@
-# Fork.GameProgrammingPatterns
+# Fork.Doc.GameProgrammingPatterns
 
-A local backup and Vietnamese localization of the Game Programming Patterns book for personal learning and archival.
+A local backup and Vietnamese localization of the **Game Programming Patterns** book for personal learning and archival.
 
 ## Disclaimer
 
